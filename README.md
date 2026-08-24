@@ -8,7 +8,7 @@ This project implements a virtual mouse that can be controlled using **hand gest
 
 * **Cursor Movement:** Control the mouse cursor by moving your **index finger**.
 * **Clicking:** Perform a **left-click** by bringing the **index and middle fingers together** (when the distance is less than 20).
-* **Scrolling Up:** Scroll up by raising the **thumb and index finger** (and keeping the middle finger down).
+* **Scrolling Up:** Scroll up by raising the **thumb and index finger** (and keeping the middle finger down)
 * **Scrolling Down:** Scroll down by raising the **thumb only**.
 * **Screenshot:** Take a **screenshot** by raising the **middle, ring, and pinky fingers** and checking if the distance between the thumb (point 4) and index finger (point 8) is less than 20
 
