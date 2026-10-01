@@ -1,6 +1,6 @@
 # AR Gesture Virtual Mouse
 
-This project implements a virtual mouse that can be controlled using **hand gestures** captured by a webcam. It uses computer vision techniques from the **Mediapipe** library for hand tracking and **OpenCV (`cv2`)** for video processing, allowing users to move the cursor, click, scroll, and take screenshots through specific hand movements
+This project implements a virtual mouse that can be controlled using **hand gestures** captured by a webcam. It uses computer vision techniques from the **Mediapipe** library for hand tracking and **OpenCV (`cv2`)** for video processing, allowing users to move the cursor, click, scroll, and take screenshots through specific hand movements.
 
 ---
 
